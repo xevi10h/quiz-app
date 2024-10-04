@@ -1,0 +1,17 @@
+# Binarios y archivos compilados
+server/main
+cmd/cli/main
+tmp/
+*.exe
+*.out
+*.log
+
+# Archivos del sistema
+.DS_Store
+
+# Archivos temporales de desarrollo
+*.swp
+*.tmp
+
+# Módulos de dependencia
+vendor/
